@@ -1,7 +1,7 @@
 import sys
 import staff
 from db import Database
-from domain.banque import Banque
+from banking.domain.banque import Banque
 
 
 banque = Banque()

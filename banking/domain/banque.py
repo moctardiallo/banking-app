@@ -1,5 +1,5 @@
-from .pile import Pile
-from .client import Client
+from .entities.pile import Pile
+from .entities.client import Client
 
 
 class Banque:
